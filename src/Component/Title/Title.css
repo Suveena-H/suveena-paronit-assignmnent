@@ -1,0 +1,45 @@
+.title {
+  display: flex;
+  justify-content: space-between;
+}
+.right-title {
+  float: right;
+}
+.right-img {
+  height: 2rem;
+  width: 2rem;
+}
+.right-title span {
+  font-size: 1rem;
+  font-weight: 600;
+}
+.title-name {
+  cursor: pointer;
+}
+.title-main {
+  position: relative;
+}
+.right-click {
+  position: absolute;
+  top: 0;
+  padding: 2rem 2rem;
+  right: 0;
+  box-shadow: 2px 6px 18px 15px #88888880;
+  border-radius: 15px;
+  z-index: 1;
+  overflow: visible;
+  margin-top: 4rem;
+  transition: 0.5s;
+}
+.right-click img {
+  width: 5rem;
+  height: 4rem;
+  margin: 1rem 2rem 0.4rem 2rem;
+}
+.right-click button {
+  border-radius: 15px;
+}
+
+.right-click .email {
+  color: rgb(165, 165, 165);
+}

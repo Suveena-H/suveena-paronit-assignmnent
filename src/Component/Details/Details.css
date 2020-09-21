@@ -1,0 +1,47 @@
+.details-section {
+  display: flex;
+  justify-content: space-between;
+}
+.details-section h4 {
+  margin-left: 7rem;
+}
+.details-left {
+  border-right: 1px solid lightgray;
+}
+.details-left img {
+  height: 10rem;
+  width: 12rem;
+  margin-left: 4rem !important;
+}
+.personal-details {
+  display: flex;
+  margin-top: 1rem;
+}
+.personal-left {
+  text-align: right;
+  color: lightgray;
+}
+.personal-right {
+  color: rgb(70, 68, 68);
+}
+.comapny-title {
+  color: silver;
+}
+.company {
+  display: flex;
+}
+.company-left {
+  text-align: right !important;
+  color: rgb(175, 173, 173);
+}
+
+.right-text {
+  color: lightgray;
+}
+.address {
+  display: flex;
+}
+.address-left {
+  text-align: right;
+  color: rgb(175, 173, 173);
+}

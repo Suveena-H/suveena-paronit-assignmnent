@@ -1,0 +1,10 @@
+.posts-text {
+  display: flex;
+  justify-content: center;
+  height: 60vh;
+  align-items: center;
+}
+.posts-text h2 {
+  font-weight: bold;
+  color: lightgray;
+}

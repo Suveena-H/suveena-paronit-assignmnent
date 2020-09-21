@@ -1,0 +1,29 @@
+.main-bg {
+  background-color: blue;
+  display: flex;
+  justify-content: center;
+  overflow: visible !important;
+  height: 70vh;
+  box-sizing: border-box;
+  position: relative;
+  z-index: 1;
+}
+.custom-shape-divider-bottom-1600661754 {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+  line-height: 0;
+}
+
+.custom-shape-divider-bottom-1600661754 svg {
+  position: relative;
+  display: block;
+  width: calc(100% + 1.3px);
+  height: 160px;
+}
+
+.custom-shape-divider-bottom-1600661754 .shape-fill {
+  fill: #fff8f8;
+}

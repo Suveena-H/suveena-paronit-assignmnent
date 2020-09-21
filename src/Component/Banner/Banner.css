@@ -1,0 +1,10 @@
+.banner {
+  background-color: #e0dede;
+  box-shadow: 1px 8px 10px 5px #9b99996e;
+  border-radius: 15px;
+  height: 85vh;
+  margin-top: 5rem;
+}
+.banner-head {
+  font-size: 20px;
+}

@@ -1,0 +1,29 @@
+.listofpeople {
+  background-color: white;
+  border-bottom: 1px solid silver !important;
+  cursor: pointer;
+}
+.contacts {
+  list-style: none;
+  padding: 0;
+}
+.contacts li {
+  width: 100% !important;
+  padding: 5px 10px;
+}
+.user_img {
+  height: 35px;
+  width: 35px;
+  border: 1.5px solid #f5f6fa;
+}
+.user_info {
+  margin-top: auto;
+  margin-bottom: auto;
+  margin-left: 15px;
+  list-style: none;
+  font-weight: 600;
+}
+.text-people:hover {
+  font-weight: 900;
+  list-style: none;
+}
